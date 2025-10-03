@@ -1,0 +1,160 @@
+{
+  "equipamentos": {
+    "laser": {
+      "nome": "Laser por Sessão",
+      "dados": {
+        "janeiro": { "cortesia": 40, "particular": 5, "bradesco": 0, "saude_caixa": 111, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 156 },
+        "fevereiro": { "cortesia": 51, "particular": 7, "bradesco": 0, "saude_caixa": 70, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 128 },
+        "marco": { "cortesia": 49, "particular": 1, "bradesco": 0, "saude_caixa": 41, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 91 },
+        "abril": { "cortesia": 61, "particular": 12, "bradesco": 0, "saude_caixa": 43, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 116 },
+        "maio": { "cortesia": 46, "particular": 24, "bradesco": 0, "saude_caixa": 40, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 110 },
+        "junho": { "cortesia": 41, "particular": 7, "bradesco": 0, "saude_caixa": 28, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 76 },
+        "julho": { "cortesia": 49, "particular": 6, "bradesco": 0, "saude_caixa": 39, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 94 },
+        "agosto": { "cortesia": 64, "particular": 9, "bradesco": 0, "saude_caixa": 49, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 122 },
+        "setembro": { "cortesia": 24, "particular": 8, "bradesco": 0, "saude_caixa": 42, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 74 }
+      }
+    },
+    "tens": {
+      "nome": "Eletroestimulação (TENS)",
+      "dados": {
+        "janeiro": { "cortesia": 13, "particular": 0, "bradesco": 23, "saude_caixa": 24, "geap": 19, "sulamerica": 15, "medservice": 0, "total": 94 },
+        "fevereiro": { "cortesia": 14, "particular": 0, "bradesco": 62, "saude_caixa": 30, "geap": 32, "sulamerica": 15, "medservice": 0, "total": 153 },
+        "marco": { "cortesia": 4, "particular": 0, "bradesco": 19, "saude_caixa": 21, "geap": 32, "sulamerica": 13, "medservice": 1, "total": 90 },
+        "abril": { "cortesia": 10, "particular": 0, "bradesco": 38, "saude_caixa": 31, "geap": 35, "sulamerica": 12, "medservice": 0, "total": 126 },
+        "maio": { "cortesia": 40, "particular": 0, "bradesco": 21, "saude_caixa": 24, "geap": 40, "sulamerica": 8, "medservice": 1, "total": 134 },
+        "junho": { "cortesia": 7, "particular": 0, "bradesco": 29, "saude_caixa": 38, "geap": 44, "sulamerica": 10, "medservice": 1, "total": 129 },
+        "julho": { "cortesia": 18, "particular": 0, "bradesco": 50, "saude_caixa": 41, "geap": 52, "sulamerica": 10, "medservice": 3, "total": 174 },
+        "agosto": { "cortesia": 29, "particular": 0, "bradesco": 61, "saude_caixa": 55, "geap": 35, "sulamerica": 5, "medservice": 4, "total": 189 },
+        "setembro": { "cortesia": 0, "particular": 0, "bradesco": 37, "saude_caixa": 45, "geap": 26, "sulamerica": 4, "medservice": 1, "total": 113 }
+      }
+    },
+    "imotion": {
+      "nome": "I Motion",
+      "dados": {
+        "janeiro": { "cortesia": 0, "particular": 0, "bradesco": 0, "saude_caixa": 34, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 34 },
+        "fevereiro": { "cortesia": 6, "particular": 0, "bradesco": 0, "saude_caixa": 42, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 48 },
+        "marco": { "cortesia": 4, "particular": 5, "bradesco": 0, "saude_caixa": 29, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 38 },
+        "abril": { "cortesia": 12, "particular": 6, "bradesco": 0, "saude_caixa": 36, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 54 },
+        "maio": { "cortesia": 16, "particular": 7, "bradesco": 0, "saude_caixa": 20, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 43 },
+        "junho": { "cortesia": 10, "particular": 5, "bradesco": 0, "saude_caixa": 44, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 59 },
+        "julho": { "cortesia": 6, "particular": 6, "bradesco": 0, "saude_caixa": 39, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 51 },
+        "agosto": { "cortesia": 11, "particular": 11, "bradesco": 0, "saude_caixa": 53, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 75 },
+        "setembro": { "cortesia": 20, "particular": 5, "bradesco": 0, "saude_caixa": 55, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 80 }
+      }
+    },
+    "transcraniana": {
+      "nome": "Estimulação Elétrica Transcraniana",
+      "dados": {
+        "janeiro": { "cortesia": 0, "particular": 0, "bradesco": 0, "saude_caixa": 46, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 46 },
+        "fevereiro": { "cortesia": 0, "particular": 0, "bradesco": 0, "saude_caixa": 31, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 31 },
+        "marco": { "cortesia": 0, "particular": 0, "bradesco": 0, "saude_caixa": 20, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 20 },
+        "abril": { "cortesia": 0, "particular": 0, "bradesco": 0, "saude_caixa": 22, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 22 },
+        "maio": { "cortesia": 0, "particular": 0, "bradesco": 0, "saude_caixa": 4, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 4 },
+        "junho": { "cortesia": 0, "particular": 0, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 0 },
+        "julho": { "cortesia": 0, "particular": 0, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 0 },
+        "agosto": { "cortesia": 19, "particular": 0, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 19 },
+        "setembro": { "cortesia": 18, "particular": 0, "bradesco": 0, "saude_caixa": 20, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 38 }
+      }
+    },
+    "onda_choque": {
+      "nome": "Terapia por Onda de Choque",
+      "dados": {
+        "janeiro": { "cortesia": 5, "particular": 0, "bradesco": 0, "saude_caixa": 20, "geap": 0, "sulamerica": 1, "medservice": 0, "total": 26 },
+        "fevereiro": { "cortesia": 7, "particular": 0, "bradesco": 0, "saude_caixa": 10, "geap": 0, "sulamerica": 4, "medservice": 0, "total": 21 },
+        "marco": { "cortesia": 10, "particular": 5, "bradesco": 0, "saude_caixa": 12, "geap": 0, "sulamerica": 3, "medservice": 0, "total": 30 },
+        "abril": { "cortesia": 18, "particular": 5, "bradesco": 0, "saude_caixa": 11, "geap": 0, "sulamerica": 2, "medservice": 0, "total": 36 },
+        "maio": { "cortesia": 3, "particular": 3, "bradesco": 0, "saude_caixa": 7, "geap": 0, "sulamerica": 1, "medservice": 0, "total": 14 },
+        "junho": { "cortesia": 7, "particular": 2, "bradesco": 0, "saude_caixa": 10, "geap": 0, "sulamerica": 1, "medservice": 0, "total": 20 },
+        "julho": { "cortesia": 1, "particular": 2, "bradesco": 0, "saude_caixa": 12, "geap": 0, "sulamerica": 4, "medservice": 0, "total": 19 },
+        "agosto": { "cortesia": 2, "particular": 3, "bradesco": 0, "saude_caixa": 10, "geap": 0, "sulamerica": 4, "medservice": 0, "total": 19 },
+        "setembro": { "cortesia": 5, "particular": 4, "bradesco": 0, "saude_caixa": 11, "geap": 0, "sulamerica": 6, "medservice": 0, "total": 26 }
+      }
+    },
+    "supramaximus": {
+      "nome": "Supramaximus",
+      "dados": {
+        "janeiro": { "cortesia": 9, "particular": 0, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 9 },
+        "fevereiro": { "cortesia": 43, "particular": 0, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 43 },
+        "marco": { "cortesia": 59, "particular": 8, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 67 },
+        "abril": { "cortesia": 48, "particular": 29, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 77 },
+        "maio": { "cortesia": 40, "particular": 28, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 68 },
+        "junho": { "cortesia": 42, "particular": 9, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 51 },
+        "julho": { "cortesia": 42, "particular": 9, "bradesco": 0, "saude_caixa": 4, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 55 },
+        "agosto": { "cortesia": 51, "particular": 5, "bradesco": 0, "saude_caixa": 10, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 66 },
+        "setembro": { "cortesia": 19, "particular": 3, "bradesco": 0, "saude_caixa": 7, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 29 }
+      }
+    },
+    "fisioterapia": {
+      "nome": "Fisioterapia",
+      "dados": {
+        "janeiro": { "cortesia": 14, "particular": 7, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 21 },
+        "fevereiro": { "cortesia": 2, "particular": 3, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 5 },
+        "marco": { "cortesia": 4, "particular": 12, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 16 },
+        "abril": { "cortesia": 3, "particular": 16, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 19 },
+        "maio": { "cortesia": 6, "particular": 24, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 30 },
+        "junho": { "cortesia": 9, "particular": 18, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 27 },
+        "julho": { "cortesia": 17, "particular": 20, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 37 },
+        "agosto": { "cortesia": 25, "particular": 24, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 49 },
+        "setembro": { "cortesia": 6, "particular": 10, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 16 }
+      }
+    },
+    "ozonio": {
+      "nome": "Ozônio",
+      "dados": {
+        "janeiro": { "cortesia": 31, "particular": 12, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 43 },
+        "fevereiro": { "cortesia": 29, "particular": 9, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 38 },
+        "marco": { "cortesia": 20, "particular": 4, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 24 },
+        "abril": { "cortesia": 42, "particular": 6, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 48 },
+        "maio": { "cortesia": 30, "particular": 10, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 40 },
+        "junho": { "cortesia": 30, "particular": 9, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 39 },
+        "julho": { "cortesia": 44, "particular": 12, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 56 },
+        "agosto": { "cortesia": 53, "particular": 16, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 69 },
+        "setembro": { "cortesia": 16, "particular": 6, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 22 }
+      }
+    },
+    "magnetoterapia": {
+      "nome": "Magnetoterapia",
+      "dados": {
+        "janeiro": { "cortesia": 2, "particular": 0, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 2 },
+        "fevereiro": { "cortesia": 11, "particular": 0, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 11 },
+        "marco": { "cortesia": 5, "particular": 0, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 5 },
+        "abril": { "cortesia": 11, "particular": 0, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 11 },
+        "maio": { "cortesia": 12, "particular": 0, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 12 },
+        "junho": { "cortesia": 14, "particular": 0, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 14 },
+        "julho": { "cortesia": 14, "particular": 9, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 23 },
+        "agosto": { "cortesia": 18, "particular": 10, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 28 },
+        "setembro": { "cortesia": 6, "particular": 8, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 14 }
+      }
+    },
+    "desintox_biologico": {
+      "nome": "Desintoxicação Biológico",
+      "dados": {
+        "janeiro": { "cortesia": 0, "particular": 0, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 0 },
+        "fevereiro": { "cortesia": 0, "particular": 0, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 0 },
+        "marco": { "cortesia": 0, "particular": 0, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 0 },
+        "abril": { "cortesia": 0, "particular": 2, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 2 },
+        "maio": { "cortesia": 2, "particular": 4, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 6 },
+        "junho": { "cortesia": 2, "particular": 2, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 4 },
+        "julho": { "cortesia": 2, "particular": 1, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 3 },
+        "agosto": { "cortesia": 0, "particular": 1, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 1 },
+        "setembro": { "cortesia": 0, "particular": 0, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 0 }
+      }
+    },
+    "desintox_metais": {
+      "nome": "Desintoxicação de Metais",
+      "dados": {
+        "janeiro": { "cortesia": 0, "particular": 0, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 0 },
+        "fevereiro": { "cortesia": 1, "particular": 6, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 7 },
+        "marco": { "cortesia": 0, "particular": 0, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 0 },
+        "abril": { "cortesia": 0, "particular": 2, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 2 },
+        "maio": { "cortesia": 11, "particular": 3, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 14 },
+        "junho": { "cortesia": 8, "particular": 1, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 9 },
+        "julho": { "cortesia": 2, "particular": 1, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 3 },
+        "agosto": { "cortesia": 0, "particular": 1, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 1 },
+        "setembro": { "cortesia": 0, "particular": 0, "bradesco": 0, "saude_caixa": 0, "geap": 0, "sulamerica": 0, "medservice": 0, "total": 0 }
+      }
+    }
+  },
+  "meses": ["janeiro", "fevereiro", "marco", "abril", "maio", "junho", "julho", "agosto", "setembro"],
+  "convenios": ["cortesia", "particular", "bradesco", "saude_caixa", "geap", "sulamerica", "medservice"]
+}

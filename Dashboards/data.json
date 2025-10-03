@@ -1,0 +1,47 @@
+{
+  "total": 118002,
+  "porTipo": [
+    { "tipo": "Embaixadora", "valor": 37875 },
+    { "tipo": "Paciente", "valor": 25167 },
+    { "tipo": "Funcionário", "valor": 24450 },
+    { "tipo": "Familiar de Funcionário", "valor": 30510 }
+  ],
+  "producaoMensal": [
+    { "mes": "Janeiro", "centroCirurgico": 244, "poltronaLeito": 919, "acupuntura": 64 },
+    { "mes": "Fevereiro", "centroCirurgico": 217, "poltronaLeito": 567, "acupuntura": 13 },
+    { "mes": "Março", "centroCirurgico": 204, "poltronaLeito": 697, "acupuntura": 37 },
+    { "mes": "Abril", "centroCirurgico": 207, "poltronaLeito": 817, "acupuntura": 68 },
+    { "mes": "Maio", "centroCirurgico": 203, "poltronaLeito": 837, "acupuntura": 104 },
+    { "mes": "Junho", "centroCirurgico": 253, "poltronaLeito": 931, "acupuntura": 108 },
+    { "mes": "Julho", "centroCirurgico": 378, "poltronaLeito": 1023, "acupuntura": 102 },
+    { "mes": "Agosto", "centroCirurgico": 367, "poltronaLeito": 1027, "acupuntura": 85 },
+    { "mes": "Setembro", "centroCirurgico": 332, "poltronaLeito": 1004, "acupuntura": 88 }
+  ],
+  "capacidades": [
+    { "mes": "Janeiro", "capacidadeLeito": 1636, "capacidadeCentroCirurgico": 570 },
+    { "mes": "Fevereiro", "capacidadeLeito": 1505, "capacidadeCentroCirurgico": 505 },
+    { "mes": "Março", "capacidadeLeito": 1577, "capacidadeCentroCirurgico": 529 },
+    { "mes": "Abril", "capacidadeLeito": 1492, "capacidadeCentroCirurgico": 459 },
+    { "mes": "Maio", "capacidadeLeito": 1649, "capacidadeCentroCirurgico": 570 },
+    { "mes": "Junho", "capacidadeLeito": 1564, "capacidadeCentroCirurgico": 505 },
+    { "mes": "Julho", "capacidadeLeito": 1708, "capacidadeCentroCirurgico": 596 },
+    { "mes": "Agosto", "capacidadeLeito": 1708, "capacidadeCentroCirurgico": 596 },
+    { "mes": "Setembro", "capacidadeLeito": 1636, "capacidadeCentroCirurgico": 570 }
+  ],
+  "porProcedimento": [
+    { "procedimento": "OZONIOTERAPIA", "valor": 2250 },
+    { "procedimento": "SUPRAMAXIMUS", "valor": 14700 },
+    { "procedimento": "LASER", "valor": 13000 },
+    { "procedimento": "IMOTION", "valor": 20600 },
+    { "procedimento": "NUTRIÇÃO", "valor": 4735 },
+    { "procedimento": "FISIOTERAPIA", "valor": 7667 },
+    { "procedimento": "TOC", "valor": 6267 },
+    { "procedimento": "ACUPUNTURA", "valor": 7000 },
+    { "procedimento": "PSICO", "valor": 10983 },
+    { "procedimento": "TRANSCRANIANA", "valor": 12267 },
+    { "procedimento": "MAGNETOTERAPIA", "valor": 2700 },
+    { "procedimento": "INFILTRAÇÃO", "valor": 5067 },
+    { "procedimento": "VITAMINA D", "valor": 900 },
+    { "procedimento": "BSV", "valor": 9866 }
+  ]
+}
