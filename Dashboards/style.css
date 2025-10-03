@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f8f8fb;
+  margin: 0;
+  padding: 30px;
+}
+h1 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+.dashboard {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 35px;
+  justify-content: center;
+}
+.chart-container {
+  background: #fff;
+  padding: 20px 30px;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.09);
+  min-width: 370px;
+  max-width: 480px;
+}
+canvas {
+  margin: 20px 0;
+  max-width: 420px;
+}
+#tipoLabels, #procLabels {
+  font-size: 14px;
+  margin-top: 10px;
+}
